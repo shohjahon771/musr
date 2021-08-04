@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    background-color: rgb(187, 196, 187);
+}
+
+.link ul {
+    float: right;
+    display: inline-block;
+    margin-right: 650px;
+    margin-top: -50px;
+}
+
+.link ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.link ul li a{
+    text-decoration: none;
+    border-radius: 50%;
+    border-top: black;
+    color:blue;
+    left: 10px;
+    font-size:15px;
+    font-weight: 700;
+}
+
+.link ul li a:hover{
+    right:10px;
+}
+
+.link ul li a:nth-child(1), ul li a:nth-child(2), ul li a:nth-child(3) ul li a:nth-child(4){
+    left: 50px;
+    margin-left: 20px;
+}
+ 
+.block{
+    background-color: rgb(23, 197, 23);
+    margin-top: -20px;
+    height: 60px;
+}
+
+.block h1{
+    margin-left: 80px;
+}
+
+
+.block .img1{
+    margin-left: 1200px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(8, 73, 8);
+    margin-top: -50px;
+}
+
+.img1 img{
+    width: 40px;
+    height: 40px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+
+.img1 h1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.block2{
+    margin-left: -70px;
+    width: 1000px;
+    height: 500px;
+}
+
+.block2 img{
+
+
+    width: 890px;
+    height: 300px;
+    margin-left: 250px;
+
+}
+
+
+.matn{
+    margin-top: -250px;
+    margin-left: 550px;
+    text-align: center;
+
+}
+
+.matn h1{
+    width: 60px;
+    height: 60px;
+}
+
+.card{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+    margin-top: -100px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.block3{
+    margin-left: 180px;
+}
+
+
+
+
+
+.block4{
+    display: inline-block;
+    width: 880px;
+    height: 270px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 190px;
+    margin-top: 110px;
+}
+
+.block4 .text3{
+    margin-left: 390px;
+    margin-top: -500px;
+    width: 400px;
+    height: 300px;
+}
+
+.map-google{
+    width: 340px;
+    height: 270px;
+    border-radius: 10px;
+}
+
+.icons img{
+
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+
+.icons{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+
+
+p{
+    margin-top: -30px;
+    margin-left: 200px;
+}
+
+.text4 p{
+    margin-left: 990px;
+}
+
+.text4{
+    margin-top: -10px;
+}
+
+.card h1{
+    font-size: 22px;
+}
+
+
+
