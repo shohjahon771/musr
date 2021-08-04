@@ -1,1 +1,1 @@
-# Bu sayt hai ishlab chiqarilmoqda
+# Bu sayt hali ishlab chiqarilmoqda
