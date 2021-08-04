@@ -1,1 +1,1 @@
-# store
+# Bu sayt hai ishlab chiqarilmoqda
