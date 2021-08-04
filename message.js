@@ -1,0 +1,5 @@
+alert("Saxifa yakunlandi, Bu sayt xali ishlab chiqarilmioqda")
+var qiymat = prompt("Ismingizni kiriting","yozing aks holda saytga kirilmaydi")
+var surname = prompt("Familyangizni kiriting", "yozing aks holda saytga kirilmaydi")
+var yosh = prompt("Yoshingizni kiriting", "yozing aks holda saytga kirilmaydi")
+alert("Ismi:    " +qiymat + "    Familyasi:    "+surname + "   yoshi:  "+yosh)
